@@ -2,18 +2,18 @@
 
 ## Introduction
 
-This project is based on [OpenEA](https://github.com/nju-websoft/OpenEA). Please see the paper [A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs](http://www.vldb.org/pvldb/vol13/p2326-sun.pdf) (VLDB 2020) for dataset details.
+This repository is the official implementation of *Understanding and Improving Knowledge Graph Embedding for Entity Alignment, ICML 2022*.
+
+Please see the paper [A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs](http://www.vldb.org/pvldb/vol13/p2326-sun.pdf) (VLDB 2020) for dataset details.
 
 
 ## Dependencies
 
-We did not add additional packages compared with the original OpenEA project. 
+This project is based on [OpenEA](https://github.com/nju-websoft/OpenEA).  We did not add additional packages compared with the original OpenEA project. 
 
 ## Example
 
-We provide an example based on jupyter notebook, please see:
-
-./run/main_from_notebook.ipynb
+We provide an example of jupyter [notebook](https://github.com/guolingbing/NeoEA/blob/main/run/main_from_notebook.ipynb).
 
 ## Quick Start
 
